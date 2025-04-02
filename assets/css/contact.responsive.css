@@ -1,0 +1,10 @@
+@media screen and (max-width: 766px) {
+    .images-contact{
+        position: absolute;
+        z-index: -99;
+        opacity: .5;
+        }
+    h1{
+        text-align: center;
+    }
+}

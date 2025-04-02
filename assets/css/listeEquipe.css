@@ -1,0 +1,150 @@
+body{
+    padding: 30px;
+    background-color: #fffbea;
+}
+.hauteur{
+    height: 240px;
+}
+.color-blue{
+    background-color: #3a8aab!important;
+}
+li{
+    text-align: center;
+}
+.img-border{
+    background-size: 100%!important;
+    border-radius: 50rem;
+    height: 250px;
+    width: 250px;
+    border-width: 5px;
+    border-style: solid;
+    padding: 5px;
+}
+.border-color-blue{
+    border-color: #3a8aab;
+}
+.border-color-green{
+    border-color: #339933;
+}
+.border-color-orange{
+    border-color: #F24E1E;
+}
+.border-color-gray{
+   border-color:#444 ;
+}
+.border-color-red{
+    border-color:red ;
+}
+.border-color-violey{
+    border-color:  #4F5D95;
+}
+.border-color-brown{
+    border-color: #773535;
+}
+.border-color-yellow{
+    border-color: yellow;
+}
+
+.dist{
+    margin-top: 200px!important;
+}
+.titre{
+    color: #3a8aab!important;
+    font-size: 60px;
+    
+}
+/* responsive */
+@media (max-width:770px) {
+    .img-grp{
+        height: 120px!important;
+        width: 120px!important;
+        border-radius: 0;
+    }
+    .dist{
+        margin-top: 230px!important;
+    }
+}
+@media (max-width:377px) {
+    .dist{
+        margin-top: 660px!important;
+    }
+    body{
+        overflow-x: hidden;
+    }
+}
+.blue{
+    color: #007bff;
+}
+.bg-orange{
+    background-color: #f2371e;
+}
+.bg-gray{
+    background-color: #444;
+}
+.bg-red{
+    background-color: red;
+}
+.bg-violey{
+    background:  #4F5D95;
+}
+.bg-brown{
+    background-color: #773535;
+}
+.bg-yellow{
+    background-color: yellow;
+}
+
+.colorfigma{
+    background-color: #F24E1E!important;
+}
+.colorps{
+    background-color: #3a8aab!important;
+}
+.colorai{
+    background-color: #F24E1E!important;
+}
+.colorscrum{
+    background-color: #007bff!important;
+}
+.coloragile{
+    background-color: #FF5733!important;
+}
+.colorkanban{
+    background-color: #33CC33!important;
+}
+.colorphp{
+    background-color: #4F5D95!important;
+}
+.colorpy{
+    background-color: #306998!important;
+}
+.colorjava{
+    background-color: #b07219!important;
+}
+.colorruby{
+    background-color: #701516!important;
+}
+.colorgolang{
+    background-color: #00ADD8!important;
+}
+.colorcsharp{
+    background-color: #9b59b6!important;
+}
+.colorruller{
+    background-color: #FF4500!important; /* code couleur pour ruller theme */
+}
+.colordebogger{
+    background-color: #FFD700!important; /* code couleur pour debogger theme */
+}
+.colorbug{
+    background-color: #8B0A1A!important;
+}
+.colorxml{
+    background-color: #008000!important; /* code couleur xml theme */
+}
+.colorreact{
+    background-color: #61DAFB!important; /* code couleur react theme */
+}
+.colornode{
+    background-color: #339933!important; /* code couleur node theme */
+}

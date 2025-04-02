@@ -1,0 +1,40 @@
+:root{
+    --blue : #3a8aab;
+}
+body{
+    background-color: #fffbea;
+    font-size: 17.5px;
+    padding: 30px;
+}
+.titreApropos{
+    color: var(--blue);
+    font-weight: bold;
+    font-size: 80px;
+}
+.btn_apropos{
+    background-color: var(--blue);
+    width: 140px;
+    height: 40px;
+}
+.img_fleche{
+    font-size: 50px;
+    color: #3a8aab;
+}
+.img_container{
+    height:400px;
+   
+}
+.img-item1{
+    height: 400px;
+}
+.img-item2{
+    height: 400px;
+}
+.tPng{
+    width: 430px;
+    margin-top: -25ch;
+}
+.tWebp{
+    width: 90px;
+    margin-top: -50ch;
+}
